@@ -6,7 +6,7 @@ linkTitle: "Method"
 weight: 2
 # date: 2017-01-05
 description: >
-  Loreduxメソッドの開発．
+  Loredux のメソッド
 ---
 
 <div class="mx-auto">
