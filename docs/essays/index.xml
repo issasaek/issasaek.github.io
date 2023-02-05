@@ -1,23 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loredux – Loredux ユーザーズガイド</title><link>https://issasaek.github.io/docs/</link><description>Recent content in Loredux ユーザーズガイド on Loredux</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://issasaek.github.io/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 規制の概念とその論理的還元</title><link>https://issasaek.github.io/docs/originalsource/foundation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issasaek.github.io/docs/originalsource/foundation/</guid><description>
-&lt;div class="mx-auto">
-&lt;a class="btn btn-lg btn-primary mr-3 mb-4" href="https://github.com/issasaek/foundation">
-序文 &lt;i class="fab fa-github ml-2 ">&lt;/i>
-&lt;/a>
-&lt;a class="btn btn-lg btn-light mr-3 mb-4" href="https://issasaek.github.io/foundation/foundation.pdf">
-PDFをプレビュー &lt;i class="fa-solid fa-file-pdf ml-2 ">&lt;/i>
-&lt;/a>
-&lt;a class="btn btn-lg btn-light mr-3 mb-4" href="https://github.com/issasaek/foundation/releases">
-PDFをダウンロード &lt;i class="fa-solid fa-download ml-2 ">&lt;/i>
-&lt;/a>
-&lt;/div>
-&lt;script type="text/javascript">
-function resizeIframe(iframe) {
-iframe.height = iframe.contentWindow.document.body.scrollHeight + "px";
-}
-&lt;/script>
-&lt;iframe id="iframe-id" src="https://drive.google.com/viewerng/viewer?embedded=true&amp;amp;url=https://issasaek.github.io/foundation/foundation.pdf" width="100%" name="iframe-name" style="min-height:98vh; border:none;" onload="resizeIframe(this)" referrerpolicy="no-referrer">
-&lt;p>Your browser can not display embedded frames. You can access the embedded page via the following link: &lt;a href="https://drive.google.com/viewerng/viewer?embedded=true&amp;amp;url=https://issasaek.github.io/foundation/foundation.pdf">https://drive.google.com/viewerng/viewer?embedded=true&amp;amp;url=https://issasaek.github.io/foundation/foundation.pdf&lt;/a>&lt;/p>
-&lt;/iframe></description></item><item><title>Docs: 論理的還元と滅法</title><link>https://issasaek.github.io/docs/essays/essay01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issasaek.github.io/docs/essays/essay01/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loredux – Essays</title><link>https://issasaek.github.io/docs/essays/</link><description>Recent content in Essays on Loredux</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://issasaek.github.io/docs/essays/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: 論理的還元と滅法</title><link>https://issasaek.github.io/docs/essays/essay01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issasaek.github.io/docs/essays/essay01/</guid><description>
 &lt;h2 id="はじめに">はじめに&lt;/h2>
 &lt;p>今あなたの世界が真に幸福なものになっていないなら，それはあなたの信念体系の最適化が不足している証拠だ．最適化が完了すれば，あなたが抱える全ての問題は消失する．こう言ってもあなたが信じないことは分かりきっている．他方でこう言えばどうだろうか．信念体系の最適化が不足しているせいで，あなたに不快な感情が繰り返し生起する．そして最適化によりそれを改善できる．今度はもっともらしいと感じるはずだ．私が提案するメソッドの最初の段階が心理療法的なものになっているのはそのためだ．メソッドの完全な記述は&lt;a href="https://github.com/issasaek/method">『Loredux-Method』&lt;/a>にある．この記事では，その概要を手短に非形式的に述べる．&lt;/p>
 &lt;h2 id="メソッド">メソッド&lt;/h2>
@@ -42,26 +23,7 @@ iframe.height = iframe.contentWindow.document.body.scrollHeight + "px";
 &lt;p>$ b $ のメンバーは，まさにメソッドが入れ替えようとする古い自我の構成部分だ．その特徴を一言で言えば，それが内包的な文脈であるということだ．しかし，最も致命的であり，したがって，メソッドが最優先で駆除するものは価値的・規範的な判断だ．それは典型的には，記述的な文 $ p $ に対して，「〜は良い」，「〜は悪い」等の価値演算子または「〜であるべき」，「〜であってはならない」等の規範演算子を結合した文 $ p^{\prime} $ を肯定する傾向性だ．しかし，このような分析は実はどうでもよい．価値判断と規範的判断の区別も重要ではない．いずれにせよ最適化によって排除されるからだ．&lt;/p>
 &lt;p>あなたの恐怖と不安，自己非難と他者非難，失望と後悔，これらの背後には常に価値的・規範的判断があると言ってよい．それはあなたの苦悶の直接の源泉であり，あなたの世界を実際に不適応と闘争に満ちたものにする．それはあなたがかつて無理やり着させられ，今や擦り切れ色褪せている虜囚の服だ．この薄汚れた残骸をメソッドは取り除く．すなわち，①価値的・規範的判断は何らかの因果的構造の記述に置き換えられ，②因果関係はある種の解釈体系に相対的な（順序対の集合としての）関係に還元される（この点については，&lt;a href="https://github.com/issasaek/foundation">『規制の概念とその論理的還元』&lt;/a>に完全な記述がある）．それは日常的意識を改変するために設計された儀式であり手続だ．したがって，価値的・規範的な表現の日常的な使用を止める必要はない．コミュニケーションの道具としてか，耽美的な表現としての使用はメソッドの眼中にない．&lt;/p>
 &lt;h2 id="結論">結論&lt;/h2>
-&lt;p>信念体系の中に価値的・規範的判断が残存している限り，メソッドのステップ3と4は実行できない．メソッドの存在論は外延的な言語に対してのみ適用されるからだ．このステップは心理療法的ではない．それはむしろあなたの世界を再創造する儀式だ．この段階に至ると，物理的世界に関する記述が喚起するビジョンから，現実性が引き剥がされる．事物を隔てる時間的・空間的距離は消失し，全てが無限の一端に還っていく．多分あなたは聞いたことがあるだろう．開示される真実は，あなたが牢獄にいるということだ．メソッドはあなたをそこから解放するように設計されている．全てのプロセスが完了したとき，あなたはもはや世界に投げ込まれた儚い生き物ではなく，あなたの世界を創造する唯一の存在になっているだろう．&lt;/p></description></item><item><title>Docs: Loredux Method</title><link>https://issasaek.github.io/docs/originalsource/method/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issasaek.github.io/docs/originalsource/method/</guid><description>
-&lt;div class="mx-auto">
-&lt;a class="btn btn-lg btn-primary mr-3 mb-4" href="https://github.com/issasaek/method">
-序文 &lt;i class="fab fa-github ml-2 ">&lt;/i>
-&lt;/a>
-&lt;a class="btn btn-lg btn-light mr-3 mb-4" href="https://issasaek.github.io/method/method.pdf">
-PDFをプレビュー &lt;i class="fa-solid fa-file-pdf ml-2 ">&lt;/i>
-&lt;/a>
-&lt;a class="btn btn-lg btn-light mr-3 mb-4" href="https://github.com/issasaek/method/releases">
-PDFをダウンロード &lt;i class="fa-solid fa-download ml-2 ">&lt;/i>
-&lt;/a>
-&lt;/div>
-&lt;script type="text/javascript">
-function resizeIframe(iframe) {
-iframe.height = iframe.contentWindow.document.body.scrollHeight + "px";
-}
-&lt;/script>
-&lt;iframe id="iframe-id" src="https://drive.google.com/viewerng/viewer?embedded=true&amp;amp;url=https://issasaek.github.io/method/method.pdf" width="100%" name="iframe-name" style="min-height:98vh; border:none;" onload="resizeIframe(this)" referrerpolicy="no-referrer">
-&lt;p>Your browser can not display embedded frames. You can access the embedded page via the following link: &lt;a href="https://drive.google.com/viewerng/viewer?embedded=true&amp;amp;url=https://issasaek.github.io/method/method.pdf">https://drive.google.com/viewerng/viewer?embedded=true&amp;amp;url=https://issasaek.github.io/method/method.pdf&lt;/a>&lt;/p>
-&lt;/iframe></description></item><item><title>Docs: 価値判断を排除する</title><link>https://issasaek.github.io/docs/essays/essay02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issasaek.github.io/docs/essays/essay02/</guid><description>
+&lt;p>信念体系の中に価値的・規範的判断が残存している限り，メソッドのステップ3と4は実行できない．メソッドの存在論は外延的な言語に対してのみ適用されるからだ．このステップは心理療法的ではない．それはむしろあなたの世界を再創造する儀式だ．この段階に至ると，物理的世界に関する記述が喚起するビジョンから，現実性が引き剥がされる．事物を隔てる時間的・空間的距離は消失し，全てが無限の一端に還っていく．多分あなたは聞いたことがあるだろう．開示される真実は，あなたが牢獄にいるということだ．メソッドはあなたをそこから解放するように設計されている．全てのプロセスが完了したとき，あなたはもはや世界に投げ込まれた儚い生き物ではなく，あなたの世界を創造する唯一の存在になっているだろう．&lt;/p></description></item><item><title>Docs: 価値判断を排除する</title><link>https://issasaek.github.io/docs/essays/essay02/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issasaek.github.io/docs/essays/essay02/</guid><description>
 &lt;h2 id="はじめに">はじめに&lt;/h2>
 &lt;p>この記事では，価値判断をあなたの信念体系から排除するやり方が説明される（内容的には&lt;a href="https://issasaek.github.io/method/method.pdf">『Loredux-Method』&lt;/a>の第1〜3節の要約である）．排除する理由は人生を楽にするためだ．強い不安や憂鬱や怒りといった不適応な感情は，大抵何らかの価値的・規範的判断に依存している．このことは，例えば認知行動療法の流派などでは（多分もっと条件を追加した上で）共通認識になっていると考えられる．価値的判断を代替物と交換すれば，不適応な反応が緩和されるということだ．ただし，以下で導入する方法は感情的な適応のさらにその先を見越している．&lt;/p>
 &lt;h2 id="価値判断">価値判断&lt;/h2>
