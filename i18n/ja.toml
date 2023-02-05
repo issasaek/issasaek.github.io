@@ -64,7 +64,7 @@ other = "セクション全体を印刷"
 [community_join]
 other = " {{ .Site.Title }} community"
 [community_introduce]
-other = "コミュニティに参加する"
+other = "コミュニティへのアクセスは，メソッドの理解を促進するかもしれません．"
 [community_learn]
 other = "学習と支援"
 [community_using]

@@ -7,6 +7,6 @@ menu:
 
 <!--add blocks of content here to add more sections to the community page -->
 
-{{< blocks/cover title=" " image_anchor="auto" height="auto" >}}
-<!-- <p class="lead"><font size="5">あなたは一人ではありません．</font></p> -->
+{{< blocks/cover title="" image_anchor="auto" height="auto" >}}
+<p class="lead"><font size="4">コミュニティが存在意義を持つのは，それがメンバーの最適化を促進するとき，かつ，その時に限られる．</font></p>
 {{< /blocks/cover >}}
