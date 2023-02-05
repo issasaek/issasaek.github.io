@@ -1,6 +1,4 @@
 ---
-categories: ["原論文"]
-tags: [""] 
 title: "原論文"
 linkTitle: "原論文"
 weight: 1
@@ -8,7 +6,7 @@ description: >
   Loredux 原論文
 ---
 
-Loreduxは，以下の2個のGithubリポジトリにおける論文上で開発されている．この2個の論文は本ガイドでも様々な箇所で参照される．
+Loreduxのフレームワークとメソッドは，それぞれ以下のGithubリポジトリ上で開発されています．この2個の論文は本ガイドでも様々な箇所で参照されます．
 
 {{< cardpane >}}
 

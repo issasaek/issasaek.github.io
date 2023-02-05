@@ -6,7 +6,7 @@ linkTitle: "foundation"
 weight: 1
 # date: 2017-01-05
 description: >
-  Loreduxメソッドで使用する理論的概念の開発．
+  Loredux のフレームワーク
 ---
 
 <div class="mx-auto">
