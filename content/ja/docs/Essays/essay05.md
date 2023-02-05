@@ -1,8 +1,8 @@
 ---
 categories: [""]
 tags: [""]
-title: "悟りの言語的パーツ"
-linkTitle: "悟りの言語的パーツ"
+title: "悟りの言語的断片"
+linkTitle: "悟りの言語的断片"
 weight: 5
 description: >
   

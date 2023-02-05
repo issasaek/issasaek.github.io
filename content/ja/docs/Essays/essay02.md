@@ -1,8 +1,8 @@
 ---
 categories: [""]
 tags: [""]
-title: "価値判断を駆除する"
-linkTitle: "価値判断を駆除する"
+title: "価値判断を排除する"
+linkTitle: "価値判断を排除する"
 weight: 2
 description: >
   

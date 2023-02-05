@@ -1,8 +1,8 @@
 ---
 categories: [""]
 tags: [""]
-title: "規範的判断を根絶する"
-linkTitle: "規範的判断を根絶する"
+title: "規範的判断を排除する"
+linkTitle: "規範的判断を排除する"
 weight: 3
 description: >
   
