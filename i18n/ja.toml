@@ -64,16 +64,16 @@ other = "セクション全体を印刷"
 [community_join]
 other = " {{ .Site.Title }} community"
 [community_introduce]
-other = " {{ .Site.Title }} のコミュニティに参加する．"
+other = "コミュニティへのアクセスは，メソッドの理解を促進するかもしれません．"
 [community_learn]
-other = "Twitter"
+other = "学習と支援"
 [community_using]
-other = "フォローして最新情報を入手する．"
+other = " "
 [community_develop]
-other = "Github"
+other = "開発のプロセス"
 [community_contribute]
-other = "本サイトのリポジトリを参照する．"
+other = " "
 [community_how_to]
 other = "ガイドラインを参照してください．"
 [community_guideline]
-other = "Loredux貢献ガイドライン"
+other = "Loredux 貢献ガイドライン"
