@@ -3,7 +3,7 @@ categories: ["原論文"]
 tags: [""] 
 title: "原論文"
 linkTitle: "原論文"
-weight: 2
+weight: 1
 description: >
   Loredux 原論文
 ---

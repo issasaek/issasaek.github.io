@@ -1,6 +1,6 @@
 
 ---
 title: ""
-linkTitle: "設計者のブログ"
+linkTitle: "設計者ブログ"
 weight: 1
 ---
