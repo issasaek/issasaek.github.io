@@ -1,5 +1,5 @@
 ---
-categories: ["原論文"]
+categories: [""]
 tags: ["foundation"]
 title: "規制の概念とその論理的還元"
 linkTitle: "foundation"
