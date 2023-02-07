@@ -1,6 +1,6 @@
 ---
-title: "Essays"
-linkTitle: "Essays"
+title: "エッセイ"
+linkTitle: "エッセイ"
 weight: 3
 description: >
   Loredux の断片的な解説
