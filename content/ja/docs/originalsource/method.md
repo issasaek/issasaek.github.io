@@ -1,5 +1,5 @@
 ---
-categories: ["原論文"]
+categories: [""]
 tags: ["method"]
 title: "Loredux Method"
 linkTitle: "Method"

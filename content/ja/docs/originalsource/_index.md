@@ -1,12 +1,12 @@
 ---
-title: "原論文"
-linkTitle: "原論文"
+title: "オリジナル"
+linkTitle: "オリジナル"
 weight: 1
 description: >
-  Loredux 原論文
+  Loredux 原典
 ---
 
-Loreduxのフレームワークとメソッドは，それぞれ以下のGithubリポジトリ上で開発されています．この2個の論文は本ガイドでも様々な箇所で参照されます．
+Loreduxのフレームワークとメソッドは，それぞれ以下のGithubリポジトリ上で開発されています．
 
 {{< cardpane >}}
 
