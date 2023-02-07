@@ -3,7 +3,7 @@ title: "オリジナル"
 linkTitle: "オリジナル"
 weight: 1
 description: >
-  Loredux 原典
+  Loredux 原論文
 ---
 
 Loreduxのフレームワークとメソッドは，それぞれ以下のGithubリポジトリ上で開発されています．
