@@ -1,0 +1,6 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loredux –</title><link>https://issasaek.github.io/blog/architect/</link><description>Recent content on Loredux</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://issasaek.github.io/blog/architect/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Loredux Website</title><link>https://issasaek.github.io/blog/2022/11/26/loredux-website/</link><pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate><guid>https://issasaek.github.io/blog/2022/11/26/loredux-website/</guid><description>
+&lt;img src="https://issasaek.github.io/blog/2022/11/26/loredux-website/featured-001_hu368aa333b68e2a80b786843f4c8350af_224120_640x0_resize_q75_catmullrom.jpg" width="640" height="360"/>
+&lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 650px">
+&lt;img class="card-img-top" src="https://issasaek.github.io/blog/2022/11/26/loredux-website/featured-001_hu368aa333b68e2a80b786843f4c8350af_224120_640x360_fit_q75_catmullrom.jpg" width="640" height="360">
+&lt;/figure>
+&lt;p>このサイトは，静的サイトジェネレーター&lt;a href="https://gohugo.io">Hugo&lt;/a>と，Hugoテーマ&lt;a href="https://github.com/google/docsy">Docsy&lt;/a>を使用して作られています．&lt;/p></description></item></channel></rss>

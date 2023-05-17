@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loredux – method</title><link>https://issasaek.github.io/tags/method/</link><description>Recent content in method on Loredux</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://issasaek.github.io/tags/method/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Loredux Method</title><link>https://issasaek.github.io/docs/originalsource/method/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://issasaek.github.io/docs/originalsource/method/</guid><description>
+&lt;div class="mx-auto">
+&lt;a class="btn btn-lg btn-primary mr-3 mb-4" href="https://github.com/issasaek/method">
+序文 &lt;i class="fab fa-github ml-2 ">&lt;/i>
+&lt;/a>
+&lt;a class="btn btn-lg btn-light mr-3 mb-4" href="https://issasaek.github.io/method/method.pdf">
+PDFをプレビュー &lt;i class="fa-solid fa-file-pdf ml-2 ">&lt;/i>
+&lt;/a>
+&lt;a class="btn btn-lg btn-light mr-3 mb-4" href="https://github.com/issasaek/method/releases">
+PDFをダウンロード &lt;i class="fa-solid fa-download ml-2 ">&lt;/i>
+&lt;/a>
+&lt;/div>
+&lt;script type="text/javascript">
+function resizeIframe(iframe) {
+iframe.height = iframe.contentWindow.document.body.scrollHeight + "px";
+}
+&lt;/script>
+&lt;iframe id="iframe-id" src="https://drive.google.com/viewerng/viewer?embedded=true&amp;amp;url=https://issasaek.github.io/method/method.pdf" width="100%" name="iframe-name" style="min-height:98vh; border:none;" onload="resizeIframe(this)" referrerpolicy="no-referrer">
+&lt;p>Your browser can not display embedded frames. You can access the embedded page via the following link: &lt;a href="https://drive.google.com/viewerng/viewer?embedded=true&amp;amp;url=https://issasaek.github.io/method/method.pdf">https://drive.google.com/viewerng/viewer?embedded=true&amp;amp;url=https://issasaek.github.io/method/method.pdf&lt;/a>&lt;/p>
+&lt;/iframe></description></item></channel></rss>
